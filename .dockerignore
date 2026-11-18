@@ -1,0 +1,5 @@
+.venv/
+.env
+qdrant_data/
+*.pdf
+__pycache__/
